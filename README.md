@@ -1,3 +1,5 @@
+<img class="logo" src="https://github.com/wearemiew/.github/raw/main/static/miew-banner.png" alt="Miew Banner"/>
+
 # Miew React Starter Template
 
 This is a template for React projects for Miew, providing a modern development environment with essential tools and configurations.
